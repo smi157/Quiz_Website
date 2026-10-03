@@ -18,9 +18,9 @@ This API provides HTTP access to the MySQL database for the AP Chemistry Quiz ap
 
 ## Endpoints
 
-- `GET /health` - Check database connection
-- `GET /api/questions/random` - Get random questions (requires auth)
-- `POST /api/query` - Execute custom query (requires auth)
+- GET /health - Check database connection
+- GET /api/questions/random - Get random questions (requires auth)
+- POST /api/query - Execute custom query (requires auth)
 
 ## Authentication
 
