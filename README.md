@@ -1,8 +1,12 @@
 Use the front end and worker code to open the cloudflare website. 
 
-db-proxy folder can be uploaded the github as a private repository.
+db-proxy folder can be uploaded to github as a private repository.
 
-connect the database to railway and use the github repo to host the nodejs server in railway.
+open a mysql database in railway and use the github repo to host the nodejs server in railway.
+
+Connect the nodejs server with mysql database.
+
+you can connect the mysql database hosted in railway to your mysql workbench application but public networking needs to be opened for the database.
 
 The nodejs server will interact with cloudflare worker.
 
