@@ -4,6 +4,8 @@ db-proxy folder can be uploaded to github as a private repository.
 
 open a mysql database in railway and use the github repo to host the nodejs server in railway.
 
+.tar.gz file in the repository can be used as an example database. Import it to railway.
+
 Connect the nodejs server with mysql database.
 
 you can connect the mysql database hosted in railway to your mysql workbench application but public networking needs to be opened for the database.
