@@ -1,10 +1,12 @@
-Use the front end and worker code to open the cloudflare website. 
+Use the front end and worker code to build the cloudflare website. 
 
 db-proxy folder can be uploaded to github as a private repository.
 
 open a mysql database in railway and use the github repo to host the nodejs server in railway.
 
 .tar.gz file in the repository can be used as an example database. Import it to railway.
+
+.tar.gz file can be also decompressed and can be uploaded to mysql workbench to see all the table structures, variables in the tables and methods that the database contains.
 
 Connect the nodejs server with mysql database.
 
